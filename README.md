@@ -1,6 +1,6 @@
 # Licencia Maternidad
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Pachotal/licencia-de-maternidad)
 
 A modern web application for managing maternity leave tracking, built with Cloudflare Workers and React. This full-stack app features a responsive UI, API backend, and seamless deployment on Cloudflare.
 
@@ -90,7 +90,7 @@ bun run deploy
 
 This builds the assets and deploys via Wrangler.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Pachotal/licencia-de-maternidad)
 
 ### Custom Domain & Environment Variables
 
